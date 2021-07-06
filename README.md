@@ -7,11 +7,11 @@ An Android application to track app usage, set timers for your apps.
 
 
 ## Features
-- Track & Display App Usage Records
-- Display Usage Pattern
+- Track app usage records
+- Show timeline for screen time
 - Set timer for reminder and limit
-- Strict Mode: block user from distracted apps
-- Not Tracking List
+- Provide strict mode: block user from distracted apps
+- Provide not Tracking List
 
 
 ## Preview
