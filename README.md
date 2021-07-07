@@ -1,9 +1,9 @@
 # Screen Time Monitoring: H-Our
 
 
-An Android application to track app usage, set timers for your apps.
+An Android app to track phone usage, set timers for your apps. (As partial fulfillment of my final year project)
 
-> Time flies. Treasure your hours. (As partial fulfillment of my final year project)
+_You only get one shot, do not miss your time._
 
 
 ## Preview
@@ -16,7 +16,7 @@ An Android application to track app usage, set timers for your apps.
 - Track app usage records
 - Show timeline for screen time
 - Set timer for reminder and limit
-- Provide strict mode: block user from distracted apps
+- Provide strict mode: block user from distracting apps
 - Provide not Tracking List
 
 
